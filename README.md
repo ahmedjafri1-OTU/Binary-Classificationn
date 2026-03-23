@@ -1,4 +1,4 @@
-# Binary-Classificationn
+# Binary-Classification
 Binary Classification App using Streamlit - Confusion matrix, ROC Curve, Precision Recall Curve
 ### Project Overview
 This project builds a machine learning application to classify mushrooms as edible or poisonous based on their physical characteristics. The model is trained using the Mushroom dataset from the UCI Machine Learning Repository.
